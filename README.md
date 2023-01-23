@@ -4,10 +4,10 @@ Welcome to my Python repository! Here you'll find a collection of useful Python 
 
 ---
 
-## 💌 (emailsender)[/email_sender/]
+## 💌 [emailsender](/email_sender/)
 This folder contains the script for sending emails using Python. 📧
 
-## 🎥 (youtubedownloader)[/youtube downloader/]
+## 🎥 [youtubedownloader](/youtube downloader/)
 This folder contains the script for downloading videos from YouTube using Python. 📹
 
 ## 🚀 How to use
