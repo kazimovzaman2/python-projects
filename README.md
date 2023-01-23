@@ -1,6 +1,6 @@
-# 🐍 Python Repository
+# 🐍 Python Projects
 
-🐍 Welcome to my Python repository! Here you'll find a collection of useful Python scripts including an email sender and a YouTube downloader.
+Welcome to my Python repository! Here you'll find a collection of useful Python scripts including an email sender and a YouTube downloader.
 
 ---
 
