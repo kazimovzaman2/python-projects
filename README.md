@@ -4,14 +4,14 @@ Welcome to my Python repository! Here you'll find a collection of useful Python 
 
 ---
 
-## 💌 emailsender
+## 💌 (emailsender)[/email_sender/]
 This folder contains the script for sending emails using Python. 📧
 
-## 🎥 youtubedownloader
+## 🎥 (youtubedownloader)[/youtube downloader/]
 This folder contains the script for downloading videos from YouTube using Python. 📹
 
 ## 🚀 How to use
-1. Clone the repository by running `git clone https://github.com/yourusername/python-projects.git`.
+1. Clone the repository by running `git clone https://github.com/kazimovzaman2/python-projects.git`.
 2. Navigate to the folder of the script you want to use (emailsender or youtubedownloader).
 3. Run the script using Python. 🐍
 
